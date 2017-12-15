@@ -14,7 +14,7 @@
     },
     methods: {
       handleClick () {
-        this.message = 'bye world'
+        this.message = 'bye world1asd'
       }
     }
   }
